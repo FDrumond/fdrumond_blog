@@ -1,0 +1,13 @@
+name: "FdrumondBlog"
+title: "Felipe Drumond"
+description: |
+  Felipe Drumond
+output_dir: "."
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+footer: footer.html
+output: 
+  distill::distill_article:
+    css: theme.css
