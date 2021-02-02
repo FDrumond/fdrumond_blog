@@ -5,8 +5,24 @@ description: |
 output_dir: "."
 navbar:
   right:
-    - text: "Home"
+    - text: "HOME"
       href: index.html
+    - text: "CV"
+      href: https://fdrumond.github.io/conhecimento-geral/cv.html
+    - text: "PUBLICACOES"
+      href: https://fdrumond.github.io/conhecimento-geral/publicacoes.html
+    - text: "BLOG"
+      href: index.html
+    - text: "CONTATO"
+      href: https://fdrumond.github.io/conhecimento-geral/contato.html
+    - icon: fa fa-github
+      href: https://github.com/FDrumond/conhecimento-geral
+    - icon: fa fa-instagram
+      href: 
+    - icon: fa fa-twitter
+      href: 
+    - icon: fa fa-rss
+      href: index.xml
 footer: footer.html
 output: 
   distill::distill_article:
