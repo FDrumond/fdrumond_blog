@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-02T18:41:26-03:00"
+      "last_modified": "2021-02-02T19:04:10-03:00"
     },
     {
       "path": "index.html",
       "title": "Felipe Drumond",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-02T18:41:28-03:00"
+      "last_modified": "2021-02-02T19:04:13-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
